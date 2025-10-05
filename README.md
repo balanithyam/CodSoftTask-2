@@ -1,4 +1,4 @@
-**Movie Rating Prediction**
+# Movie Rating Prediction #
 
 📘 Project Overview
 -This project builds a machine learning model that predicts the rating of a movie using features such as genre, director, actor, runtime, year, votes, and gross revenue.
